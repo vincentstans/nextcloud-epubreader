@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>files_epubviewer</id>
+    <name>EPub and Comics online reader (oc11+)</name>
+    <description>Online EPub, and Comics (cbr/cbz) files reader for nextcloud 11</description>
+    <licence>LGPL</licence>
+    <author>Thierry CHARLES, based on files_pdfviewer (Thomas Müller) ; readepub (Tristan Siebers) </author>
+    <repository type="git">https://github.com/e-alfred/owncloud-epubreader.git</repository>
+	<bugs>https://github.com/e-alfred/owncloud-epubreader/issues</bugs>
+	<dependencies>
+		<nextcloud min-version="11" max-version="12" />
+	</dependencies>
+	<category>office</category>
+	<version>7.0.5.1</version>
+    <shipped>false</shipped>
+    <default_enable/>
+</info>
